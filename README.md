@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <a href="razu_404-500 difficulty rating.pdf">
+  <a href="CodeChef-500 difficulty rating_Certificate.pdf">
     <img src="https://img.shields.io/badge/OPEN_CERTIFICATE-View_PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
