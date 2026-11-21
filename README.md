@@ -1,78 +1,91 @@
-# RAZU AHMED | Competitive Programming Portfolio
+<!-- HEADER -->
+<h1 align="center">🏆 CodeChef Achievement</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Competitive_Programming-Portfolio-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-CodeChef-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/COMPETITIVE_PROGRAMMING-ACHIEVEMENT-0D1117?style=for-the-badge&logo=codechef&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>Problem Solver | CSE Student | Aspiring Software Engineer</b>
+  <b>A milestone in my competitive programming journey.</b>
+  <br/>
+  <i>Learning • Practicing • Improving</i>
 </p>
 
 ---
 
-## About This Repository
+## 🎯 Achievement Overview
 
-This repository represents my journey in competitive programming, problem-solving, and continuous technical development.
+I am pleased to share a milestone from my competitive programming journey.
 
-Here, I document my achievements, certificates, and learning milestones across programming platforms.
+Successfully completed all practice problems under the **500 Difficulty Rating** category on CodeChef.
 
-## Featured Achievement
-
-### 01 — CodeChef | 500 Difficulty Rating
-
-Successfully completed the practice problems under the 500 Difficulty Rating category on CodeChef.
-
-| Category | Details |
-|:---|:---|
-| Platform | CodeChef |
-| Achievement | 500 Difficulty Rating |
-| Username | `razu_404` |
-| Completion Date | 04 November 2026 |
-| Certificate ID | `20c5f5c` |
-| Format | PDF |
-
-### Certificate Documentation
-
-**Official Certificate**
-
-📄 [View / Download 500 Difficulty Rating Certificate](CodeChef/500-Difficulty-Rating-Certificate.pdf)
-
-[Verify Certificate on CodeChef](https://www.codechef.com/certificates/verify)
-
----
-
-## Technical Interests
-
-- Data Structures and Algorithms
-- Competitive Programming
-- Problem Solving
-- Software Engineering
-- Machine Learning and Artificial Intelligence
-
-## Development Roadmap
-
-| Milestone | Progress |
-|:---|:---|
-| CodeChef 500 Difficulty | Completed |
-| Advanced Problem Solving | In Progress |
-| Data Structures & Algorithms | In Progress |
-| Coding Contests | Upcoming |
-| Advanced Programming Challenges | Upcoming |
+<table>
+  <tr>
+    <td><b>Platform</b></td>
+    <td>CodeChef</td>
+  </tr>
+  <tr>
+    <td><b>Achievement</b></td>
+    <td>Practice Problems Completion</td>
+  </tr>
+  <tr>
+    <td><b>Difficulty Rating</b></td>
+    <td><b>500</b></td>
+  </tr>
+  <tr>
+    <td><b>Completion Date</b></td>
+    <td>19 November 2026</td>
+  </tr>
+  <tr>
+    <td><b>Category</b></td>
+    <td>Competitive Programming</td>
+  </tr>
+</table>
 
 ---
 
-## Engineering Philosophy
-
-> Great engineers are built through curiosity, consistency, and continuous problem-solving.
-
-I believe every challenge is an opportunity to learn, improve, and build better solutions.
-
----
+## 📜 Certificate of Completion
 
 <p align="center">
-  <b>RAZU AHMED</b><br/>
-  Computer Science & Engineering
-  <br/><br/>
-  <i>Think logically. Code efficiently. Keep growing.</i>
+  <img src="https://img.shields.io/badge/CERTIFICATE-CODECHEF-2563EB?style=for-the-badge&logo=codechef&logoColor=white" />
+</p>
+
+<p align="center">
+  Successfully completed all practice problems of 500 Difficulty Rating on CodeChef.
+</p>
+
+<p align="center">
+  <a href="CodeChef/500-Difficulty-Rating-Certificate.pdf">
+    <img src="https://img.shields.io/badge/📄_VIEW_CERTIFICATE-Open_PDF-2563EB?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 💡 What I Learned
+
+- Improved logical thinking and analytical skills.
+- Practiced programming fundamentals.
+- Developed a better problem-solving approach.
+- Built consistency through regular coding practice.
+
+---
+
+## 🚀 My Learning Journey
+
+This achievement is just one step in my programming journey.
+
+My goal is to continuously improve my problem-solving abilities, explore more challenging problems, and become a better software engineer.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next_Goal-Higher_Difficulty-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Continuous_Learning-2563EB?style=flat-square" />
+</p>
+
+---
+
+<h3 align="center">⚡ Keep Learning. Keep Coding. Keep Growing.</h3>
+
+<p align="center">
+  <i>Every solved problem is progress.</i>
 </p>
