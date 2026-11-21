@@ -28,7 +28,7 @@
       <b>Achievement</b>
     </td>
     <td align="center">
-      <h1>19 Nov</h1>
+      <h1>4 Nov</h1>
       <b>2026</b>
     </td>
   </tr>
@@ -42,7 +42,7 @@
 | Username | `razu_404` |
 | Achievement | Completed all practice problems |
 | Difficulty | 500 |
-| Completion Date | 19 November 2026 |
+| Completion Date | 4 November 2026 |
 
 ---
 
