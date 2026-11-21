@@ -55,7 +55,7 @@ Successfully completed all practice problems under the **500 Difficulty Rating**
 </p>
 
 <p align="center">
-  <a href="CodeChef/500-Difficulty-Rating-Certificate.pdf">
+  <a href="razu_404-500 difficulty rating.pdf">
     <img src="https://img.shields.io/badge/📄_VIEW_CERTIFICATE-Open_PDF-2563EB?style=for-the-badge" />
   </a>
 </p>
