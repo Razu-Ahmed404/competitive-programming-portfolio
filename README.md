@@ -1,91 +1,109 @@
-<!-- HEADER -->
-<h1 align="center">🏆 CodeChef Achievement</h1>
+# 🏆 CodeChef | Achievement Showcase
 
 <p align="center">
-  <img src="https://img.shields.io/badge/COMPETITIVE_PROGRAMMING-ACHIEVEMENT-0D1117?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CODECHEF-COMPETITIVE_PROGRAMMING-orange?style=for-the-badge&logo=codechef" />
 </p>
 
 <p align="center">
-  <b>A milestone in my competitive programming journey.</b>
-  <br/>
-  <i>Learning • Practicing • Improving</i>
+  <i>Turning practice into progress, one problem at a time.</i>
 </p>
 
 ---
 
-## 🎯 Achievement Overview
+## 🎯 Achievement at a Glance
 
-I am pleased to share a milestone from my competitive programming journey.
+<p align="center">
+  <img src="https://img.shields.io/badge/500-DIFFICULTY_RATING-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=for-the-badge" />
+</p>
 
-Successfully completed all practice problems under the **500 Difficulty Rating** category on CodeChef.
-
-<table>
+<table align="center">
   <tr>
-    <td><b>Platform</b></td>
-    <td>CodeChef</td>
-  </tr>
-  <tr>
-    <td><b>Achievement</b></td>
-    <td>Practice Problems Completion</td>
-  </tr>
-  <tr>
-    <td><b>Difficulty Rating</b></td>
-    <td><b>500</b></td>
-  </tr>
-  <tr>
-    <td><b>Completion Date</b></td>
-    <td>19 November 2026</td>
-  </tr>
-  <tr>
-    <td><b>Category</b></td>
-    <td>Competitive Programming</td>
+    <td align="center">
+      <h1>500</h1>
+      <b>Difficulty Rating</b>
+    </td>
+    <td align="center">
+      <h1>🏆</h1>
+      <b>Achievement</b>
+    </td>
+    <td align="center">
+      <h1>19 Nov</h1>
+      <b>2026</b>
+    </td>
   </tr>
 </table>
 
+## 📌 Achievement Details
+
+| Field | Information |
+|:---|:---|
+| Platform | CodeChef |
+| Username | `razu_404` |
+| Achievement | Completed all practice problems |
+| Difficulty | 500 |
+| Completion Date | 19 November 2026 |
+
 ---
 
-## 📜 Certificate of Completion
+## 📜 Certificate Showcase
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CERTIFICATE-CODECHEF-2563EB?style=for-the-badge&logo=codechef&logoColor=white" />
-</p>
-
-<p align="center">
-  Successfully completed all practice problems of 500 Difficulty Rating on CodeChef.
+  <b>Certificate of Completion</b>
+  <br/>
+  <sub>CodeChef — 500 Difficulty Rating</sub>
 </p>
 
 <p align="center">
   <a href="razu_404-500 difficulty rating.pdf">
-    <img src="https://img.shields.io/badge/📄_VIEW_CERTIFICATE-Open_PDF-2563EB?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/OPEN_CERTIFICATE-View_PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
 
 ---
 
-## 💡 What I Learned
+## 📈 My Progress Journey
 
-- Improved logical thinking and analytical skills.
-- Practiced programming fundamentals.
-- Developed a better problem-solving approach.
-- Built consistency through regular coding practice.
+```text
+Competitive Programming
+          |
+          v
+  CodeChef Practice
+          |
+          v
+  500 Difficulty Rating
+          |
+          v
+      COMPLETED
+          |
+          v
+   Next: Higher Challenges
+```
+
+## 💻 Skills in Development
+
+- Logical Thinking
+- Problem Solving
+- Programming Fundamentals
+- Algorithmic Thinking
+- Consistent Practice
 
 ---
 
-## 🚀 My Learning Journey
+## 🚀 What's Next?
 
-This achievement is just one step in my programming journey.
+My journey doesn't stop here.
 
-My goal is to continuously improve my problem-solving abilities, explore more challenging problems, and become a better software engineer.
+I aim to solve more challenging problems, strengthen my algorithmic knowledge, and participate in competitive programming contests.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next_Goal-Higher_Difficulty-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mindset-Continuous_Learning-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/NEXT_GOAL-HIGHER_DIFFICULTY-16A34A?style=for-the-badge" />
 </p>
 
 ---
 
-<h3 align="center">⚡ Keep Learning. Keep Coding. Keep Growing.</h3>
+<h3 align="center">Keep Learning • Keep Coding • Keep Growing</h3>
 
 <p align="center">
-  <i>Every solved problem is progress.</i>
+  <i>One achievement today. Bigger challenges tomorrow.</i>
 </p>
