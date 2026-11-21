@@ -22,7 +22,7 @@ This repository documents my competitive programming journey, milestones, certif
 ### 01. CodeChef — 500 Difficulty Rating
 
 <details>
-<summary><b>View Achievement Details</b></summary>
+<b>View Achievement Details</b>
 
 - **Platform:** CodeChef
 - **Achievement:** 500 Difficulty Rating
@@ -33,7 +33,7 @@ This repository documents my competitive programming journey, milestones, certif
 #### 📜 Certificate
 
 <p align="center">
-  <img src="CodeChef/500-Difficulty-Rating-Certificate.jpg" width="85%" alt="CodeChef 500 Difficulty Rating Certificate"/>
+  <img src="Certificate.jpg" width="85%" alt="CodeChef 500 Difficulty Rating Certificate"/>
 </p>
 
 **Certificate Verification:**  
